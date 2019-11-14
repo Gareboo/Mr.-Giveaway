@@ -4,7 +4,7 @@
   "description": "oo",
   "main": "bot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node source/index.js"
   },
   "dependencies": {
     "discord.js": "github:hydrabolt/discord.js#faf27fabc055cb3850e823cf36c0af21c0139c35",
